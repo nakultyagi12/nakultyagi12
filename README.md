@@ -19,6 +19,7 @@ Currently working on projects that include dashboards, Excel macros, and Power Q
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nakul-tyagi-77563926a/))
+- LinkedIn: [![image](https://github.com/user-attachments/assets/1597fa68-3bfc-4e84-8032-2113ffa67d97)
+]
 - GitHub Projects: See pinned repos above 👆
 
