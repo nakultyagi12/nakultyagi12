@@ -17,9 +17,8 @@ Currently working on projects that include dashboards, Excel macros, and Power Q
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
--[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakul-tyagi-77563926a)
-
-- GitHub Projects: See pinned repos above 👆
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakul-tyagi-77563926a)  
+📧 Email: [tyaginakul299@gmail.com](mailto:tyaginakul299@gmail.com)
 
