@@ -5,8 +5,8 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a data analyst, having a good knowledge about  Excel, Power BI, SQL and Python Programming which help me in solving real-life problems through data.I Really love to work with the Data and finding hidden patterns and useful insights from it.
-Currently working on projects that include dashboards, Excel macros, and Power Query.
+I'm a data analyst, having a good knowledge about  Excel, Power BI, SQL and Python Programming which help me in solving real-life problems through data.I Really love to work with the Data and finding hidden patterns and useful insights from it.I am also a creative individual when it comes to Represents the data in the form of visuals like charts and dashboards.
+
 
 ---
 
