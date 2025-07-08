@@ -18,7 +18,6 @@ I'm a data analyst, having a good knowledge about  Excel, Power BI, SQL and Pyth
 ---
 
 ## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakul-tyagi-77563926a)  
+ 
 📧 Email: [tyaginakul299@gmail.com](mailto:tyaginakul299@gmail.com)
 
