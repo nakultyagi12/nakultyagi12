@@ -1,6 +1,5 @@
 # Hi there, I'm Nakul Tyagi 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nakul-tyagi-77563926a/)
 
 ---
 
@@ -19,7 +18,8 @@ Currently working on projects that include dashboards, Excel macros, and Power Q
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [![image](https://github.com/user-attachments/assets/1597fa68-3bfc-4e84-8032-2113ffa67d97)
-]
+
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nakul-tyagi-77563926a)
+
 - GitHub Projects: See pinned repos above 👆
 
