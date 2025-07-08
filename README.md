@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Nakul Tyagi 👋
 
-<!--
-**nakultyagi12/nakultyagi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nakul-tyagi-77563926a/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ About Me
+
+I'm a data analyst, having a good knowledge about  Excel, Power BI, SQL and Python Programming which help me in solving real-life problems through data.I Really love to work with the Data and finding hidden patterns and useful insights from it.
+Currently working on projects that include dashboards, Excel macros, and Power Query.
+
+---
+
+## 📌 Current Learning Goals
+- Learning usefullness of Ai in my Field
+- How can i increase my Productivity in this field 
+- SQL advance Queries
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nakul-tyagi-77563926a/))
+- GitHub Projects: See pinned repos above 👆
+
